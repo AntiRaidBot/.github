@@ -21,7 +21,7 @@
 
 **AntiRaidBot** - Discord-бот для защиты серверов от рейдов, крашей, злоупотребления правами и массовых вредоносных действий. Он помогает владельцам серверов быстро реагировать на угрозы, ограничивать опасные роли, контролировать действия администрации и держать безопасность сервера под рукой.
 
-[Добавить AntiRaidBot на сервер](https://discord.com/oauth2/authorize?client_id=1376482498506391673&scope=bot+applications.commands&permissions=8)
+[Добавить AntiRaidBot на сервер](https://discord.com/oauth2/authorize?client_id=1515174890435776574&scope=bot+applications.commands&permissions=8)
 
 ## Почему AntiRaidBot
 
@@ -140,7 +140,7 @@ AntiRaidBot подойдёт:
 
 ## Быстрый старт
 
-1. Добавьте бота на сервер: [пригласить AntiRaidBot](https://discord.com/oauth2/authorize?client_id=1376482498506391673&scope=bot+applications.commands&permissions=8).
+1. Добавьте бота на сервер: [пригласить AntiRaidBot](https://discord.com/oauth2/authorize?client_id=1515174890435776574&scope=bot+applications.commands&permissions=8).
 2. Выполните `/settings`, чтобы открыть панель защиты.
 3. Настройте `/limits` и `/trusted`.
 4. Добавьте опасные роли в `/role_blacklist`.
@@ -151,15 +151,17 @@ AntiRaidBot подойдёт:
 
 Добавить AntiRaidBot:
 
-https://discord.com/oauth2/authorize?client_id=1376482498506391673&scope=bot+applications.commands&permissions=8
+https://discord.com/oauth2/authorize?client_id=1515174890435776574&scope=bot+applications.commands&permissions=8
 
 ## Стек
 
 - Python
+- GO
 - discord.py
 - PostgreSQL
 - Redis
 - Docker
+- Dokploy
 
 ## Лицензия и использование
 
